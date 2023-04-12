@@ -5,3 +5,7 @@
 -- +----------+
 
 
+SELECT name,neighborhood, COUNT (*)
+
+FROM listings
+WHERE name = "Lincoln Park"; 
