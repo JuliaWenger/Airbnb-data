@@ -17,3 +17,6 @@
 -- | Entire villa                        | 75       | 2021-10-12                 |
 
 
+SELECT property_type, date_reviewed
+FROM
+WHERE
