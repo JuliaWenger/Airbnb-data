@@ -5,7 +5,7 @@
 -- +----------+
 
 
-SELECT name,neighborhood, COUNT (*)
+SELECT neighborhood, COUNT (*)
 
 FROM listings
-WHERE name = "Lincoln Park"; 
+WHERE neighborhood = "Lincoln Park"; 
